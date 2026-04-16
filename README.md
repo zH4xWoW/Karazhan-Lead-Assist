@@ -17,7 +17,7 @@ Built for players who regularly lead Karazhan groups, this addon is intended to 
 
 ## Installation
 1. Download the addon
-2. Extract the folder to your `World of Warcraft\_classic_era_\Interface\AddOns` or TBC Anniversary AddOns folder
+2. Extract the folder to your `World of Warcraft\_anniversary_\Interface\AddOns` folder
 3. Ensure the folder is named `KarazhanLeadAssist`
 4. Launch the game and make sure the addon is enabled at the character selection screen
 
@@ -42,6 +42,7 @@ Configuration and usage are handled through:
 The addon uses the following structure:
 - `KarazhanLeadAssist.toc` - Table of contents file with metadata
 - `KarazhanLeadAssist.lua` - Main addon logic and UI functionality
+- `KarazhanLeadAssist_Data.lua` - Preset boss strategy/assignments data
 
 Karazhan Lead Assist is intended to serve as a focused utility addon for raid leaders, with features centered around improving organization, consistency, and convenience during Karazhan runs.
 
