@@ -1,0 +1,9 @@
+## Interface: 20505
+## Title: Karazhan Lead Assist
+## Notes: Karazhan raid-leader helper with encounter notes, assignments, trash reminders, and announcement tools.
+## Author: OpenAI
+## Version: 0.1.1
+## SavedVariables: KarazhanLeadAssistDB
+
+KarazhanLeadAssist_Data.lua
+KarazhanLeadAssist.lua
