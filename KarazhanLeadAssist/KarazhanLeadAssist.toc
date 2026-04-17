@@ -1,8 +1,13 @@
 ## Interface: 20505
-## Title: Karazhan Lead Assist
-## Notes: Karazhan raid-leader helper with encounter notes, assignments, trash reminders, and announcement tools.
-## Author: OpenAI
-## Version: 0.1.1
+## IconTexture: Interface/Addons/KarazhanLeadAssist/art/kla-big
+## Title: |cFF7a88f2K|r|cFF8b93f5|r|cFFab7dfdr|r|cFFad94fca|r|cFFaeaafbz|r|cFF9d9ff8h|r|cFF8b93f5a|r|cFF7a88f2n|r Lead Assist
+## Notes: Karazhan raid-leader helper with encounter notes, assignment sheets, trash reminders, preset loading, announce tools, placeholder name replacement, and more.|n|n|cffbbbbbbBy Zanzo (Ronowar-Dreamscythe)|r
+## Author: Zanzo (Ronowar-Dreamscythe)
+## Version: 0.9.0
+## Category: Raid Leader
+## X-Curse-Project-ID: 1515708
+## X-Wago-ID: b6mvm7KP
+
 ## SavedVariables: KarazhanLeadAssistDB
 
 KarazhanLeadAssist_Data.lua
